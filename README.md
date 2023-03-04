@@ -1,8 +1,10 @@
-
+ <h1 align="center">Hello world 👋</h1>
 <p align="center">
  <img width="100px" src="https://www.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" align="center" alt="GitHub Readme Stats" />
+- 🔭 I’m currently focussed on JavaScript
  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=bujkrys3&left_color=green&right_color=red)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bujkrys3.github.io/ShopMarkup-hard/)
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bujkrys3&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bujkrys3&langs_count=5&theme=tokyonight)]()
