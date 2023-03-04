@@ -1,5 +1,5 @@
 # <h1 align="center">Hello world 👋</h1>
-<p align="center">
+ 
 ![Logo DEV](https://www.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg)
 
 - 🔭 I’m currently focussed on JavaScript
