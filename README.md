@@ -1,6 +1,6 @@
- <h1 align="center">Hello world 👋</h1>
+# <h1 align="center">Hello world 👋</h1>
 <p align="center">
- <img width="100px" src="https://www.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" align="center" alt="GitHub Readme Stats" />
+## <img width="100px" src="https://www.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" align="center" alt="GitHub Readme Stats" />
 - 🔭 I’m currently focussed on JavaScript
  
 ## 🔗 Links
