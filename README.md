@@ -1,6 +1,6 @@
 # <h1 align="center">Hello world 👋</h1>
  
-![Logo DEV](https://www.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg)
+![Logo DEV](https://www.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg){ width=50% }
 
 - 🔭 I’m currently focussed on JavaScript
  
