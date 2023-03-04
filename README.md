@@ -1,6 +1,8 @@
 
 <p align="center">
  <img width="100px" src="https://www.freelogovectors.net/wp-content/uploads/2019/05/dev-logo.jpg" align="center" alt="GitHub Readme Stats" />
+ 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=bujkrys3&left_color=green&right_color=red)
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bujkrys3&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bujkrys3&langs_count=5&theme=tokyonight)]()
